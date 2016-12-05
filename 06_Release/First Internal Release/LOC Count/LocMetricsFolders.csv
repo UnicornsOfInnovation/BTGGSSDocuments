@@ -1,0 +1,28 @@
+Folder,Files,LOC,SLOC-P,SLOC-L,MVG,BLOC,C&SLOC,CLOC,CWORD,HCLOC,HCWORD
+Total,78,10903,7186,5692,752,2006,75,1711,9382,358,1772
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem,78,10903,7186,5692,752,2006,75,1711,9382,358,1772
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\BTGGradeSubmissionSystem,39,5596,3640,2893,376,1096,74,860,5112,181,918
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\BTGGradeSubmissionSystem\src,34,5501,3575,2843,376,1066,74,860,5112,181,918
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\BTGGradeSubmissionSystem\src\btg,34,5501,3575,2843,376,1066,74,860,5112,181,918
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\BTGGradeSubmissionSystem\src\btg\common,1,85,13,12,0,22,0,50,145,5,25
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\BTGGradeSubmissionSystem\src\btg\controller,6,1123,647,563,46,241,22,235,1849,46,253
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\BTGGradeSubmissionSystem\src\btg\dao,5,624,286,229,14,197,25,141,961,36,187
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\BTGGradeSubmissionSystem\src\btg\dto,7,592,447,320,59,85,0,60,250,32,157
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\BTGGradeSubmissionSystem\src\btg\meta,5,1139,901,694,97,152,0,86,212,0,0
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\BTGGradeSubmissionSystem\src\btg\model,5,912,599,418,120,174,0,139,363,26,109
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\BTGGradeSubmissionSystem\src\btg\service,5,1026,682,607,40,195,27,149,1332,36,187
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\BTGGradeSubmissionSystem\test,5,95,65,50,0,30,0,0,0,0,0
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\BTGGradeSubmissionSystem\test\budget,5,95,65,50,0,30,0,0,0,0,0
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\BTGGradeSubmissionSystem\test\budget\model,5,95,65,50,0,30,0,0,0,0,0
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\src,34,5212,3481,2749,376,880,1,851,4270,177,854
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\src\btg,34,5212,3481,2749,376,880,1,851,4270,177,854
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\src\btg\common,1,85,13,12,0,22,0,50,145,5,25
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\src\btg\controller,6,1028,629,545,46,169,0,230,1586,45,228
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\src\btg\dao,5,529,249,192,14,140,1,140,780,35,174
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\src\btg\dto,7,592,447,320,59,85,0,60,250,32,157
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\src\btg\meta,5,1133,901,694,97,146,0,86,212,0,0
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\src\btg\model,5,912,599,418,120,174,0,139,363,26,109
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\src\btg\service,5,933,643,568,40,144,0,146,934,34,161
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\test,5,95,65,50,0,30,0,0,0,0,0
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\test\budget,5,95,65,50,0,30,0,0,0,0,0
+C:\Users\davebaclayon\Desktop\SoftEng Updates\BTG Project\BTGGradeSubmissionSystem\test\budget\model,5,95,65,50,0,30,0,0,0,0,0

@@ -1,0 +1,33 @@
+August 25, 2016 (THURSDAY)										                         10:30am-12:00pm
+Venue: 	            BUNZEL CANTEEN
+
+Dave	            1.5 hr
+Adrian		    1.5 hr
+Joannah	    	    1.5 hr 
+Russell     	    1.5 hr
+
+Total hours:	    6 hr
+
+ISSUES:
+1. Login Screen - not started
+2. Student Home Screen - not started
+3. Teacher Home Screen - not started
+4. Teacher Edit Grades Screen - not started
+5. Change Password Screen – not started
+6. Download Grades PDF Format Screen – not started
+7. Download Class List PDF Format Screen – not started
+
+RESOLUTIONS:
+1. Login Screen should be started and finished.
+2. Student Home Screen should  be started and finished.
+3. Teacher Home Screen should  be started and finished.
+4. Teacher Edit Grades Screen should  be started and finished.
+5. Change Password Screen should  be started and finished.
+6. Download Grades PDF Format Screen should  be started and finished.
+7. Download Class List PDF Format Screen should  be started and finished.
+ 
+ACTIONS:
+For all issues,
+   	Joannah, will create the images of the screens using adobe photoshope.
+	Adrian and Russell will create the excel files.
+   	Dave will review the outputs.   

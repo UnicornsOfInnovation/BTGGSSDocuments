@@ -1,0 +1,35 @@
+Ooctober 25, 2016 (Wednesday)
+10:00am-8:00pm
+
+VENUE: Baclayon's Residence
+
+
+Dave	    10 hr
+
+Adrian	    10 hr
+
+Joannah	    10 hr
+
+Russell	    10 hr
+
+
+Total hours:  40 hr
+
+
+ISSUE:
+1. Create test case for Account and Course
+2. Retrieve test case for Account and Course
+3. Update test case for Account and Course
+4. Delete test case for Account and Course
+
+RESOLUTION:
+1. Do the create test case
+2. Do the retrieve test case
+3. Do the update test case
+4. Do the delete test case
+
+ACTIONS:
+1. Create test case - dave
+2. retrieve test case - russell
+3. update test case - joannah
+4. delete test case - adrian

@@ -1,0 +1,45 @@
+BTG Grade Submission System
+System Requirements and Specification Review.
+
+Login and Logout in Use Case
+
+
+FUNC-004 R13 - Drop down ang Year Level.
+
+FUNC-004 - Add Requirement - All fields are required.
+FUNC-005 R04 - Password field is editable.
+
+Everything in the Screen Definition shall be stated in the SRS.
+
+FUNC-001 - Add Requirement - How are strands sorted <<<<< FOR THIS, ADDED A NEW FUNCTIONALITY STRAND MANAGEMENT - ADD STRAND
+	 - Add Requirement - What are the fields to be added in the Add Strand form?
+	 - Add Requirement - Validate the system the inputted fields if mudisplay ba shag success or error message.
+	 - Add Requirement - State that All fields are required.
+
+FUNC-003 - Add Requirement - How are things sorted.
+	 - Add Requirement - One strand can acquire one class.
+
+FUNC-015 - Remove Requirement 6
+
+FUNC-016 - Course Codes should be unique.
+	
+FUNC-002 - Cannot choose filetype
+	 - State the things that are too be displayed.
+	 - Can choose a location where the PDF will be stored.
+	  
+FUNC-006 - Same as Func-002
+
+Add the profile of the teacher	contact number and email address shall be displayed.
+
+ADD CONFIRMATION FOR EVERY THING!!!
+
+Download Grade Functionality (Admin) - If all grades are not yet submitted, and the Download Button is clicked, the Grades will be downloaded with a statement that "Everything is partial".
+
+What if Login then account was deleted?
+
+If (new password is the old password) flag an error message!
+In
+
+CONSTRAINTS.
+All soft delete are stored in constraints!
+Rooms and schedules cannot be handled in the system (CONSULT AND ADD IN THE SRS).

@@ -1,0 +1,38 @@
+August 17, 2016 (Wednesday)
+10:30am-12:00pm
+
+VENUE: LB 442TC
+
+
+Dave	    1.5 hr
+
+Adrian	    1.5 hr
+
+Joannah	    1.5 hr
+
+Russell     1.5 hr
+
+
+Total hours:  6 hr
+
+
+ISSUE:
+1. Revision of SRS and RRC
+
+2. Screen list and Screen definition functionality Assignment
+
+3.SRS USE CASE Diagram
+
+RESOLUTION:
+1. Revise the SRS and RRC
+
+2. Screen definitions are assigned to members 
+
+3. Improve SRS USE CASE Diagram
+
+ACTIONS:
+1. Dave takes care of SRS while Joannah in RRC
+
+2. Dave Assigned Russell and Adrian to take care of Screen definitions
+
+3. Adrian Adds Login and Logout functionalities in the USE CASE Diagram

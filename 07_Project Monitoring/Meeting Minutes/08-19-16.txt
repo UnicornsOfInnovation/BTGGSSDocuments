@@ -1,0 +1,37 @@
+August 19, 2016 (Friday)
+2:00pm-4:00pm
+
+VENUE: NOVEL CAFE
+
+
+Dave	    2 hr
+
+Adrian	    2 hr
+
+Joannah	    2 hr
+
+Russell     2 hr
+
+
+Total hours:  8 hr
+
+
+ISSUE:
+1. Administrator Manage Screen
+2. Accounts - Home Screen
+3. Accounts - Add/Edit Screen
+
+
+RESOLUTION:
+1. Start and Finish the Administrator Screen
+2. Start and finish the Accounts - Home Screen
+3. Start and finish the Accounts - Add/Edit Screen
+
+
+ACTIONS:
+1. Administrator Screen - Adrian (Fields)
+			- Joannah (Picture)
+2. Accounts Home Screen - Russell (Fields)
+			- Joannah (Picture)
+3. Accounts Add/Edit Screen - Dave (Fields)
+			- Joannah (Picture)

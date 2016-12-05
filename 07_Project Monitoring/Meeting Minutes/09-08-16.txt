@@ -1,0 +1,36 @@
+September 8, 2016(thursday)
+6:00-8:00pm
+Venue: LB245 TC
+
+Dave	2 hrs
+
+Joannah 2 hrs
+
+Adrian	2 hrs
+
+Russell	2 hrs
+
+
+Total hrs	8 hrs
+
+ISSUES:
+
+1. Strand is database pre-defined
+2. If Account is deleted upon logging in
+3. If there are unfilled grades after edditing
+4. 'Delete all' button
+5. Admin home screen interface
+
+RESOLUTIONS:
+
+1. Remove 'Delete Strand' under admin management
+2. Redirect to login page with dialog box stating to approach admin
+3. Automatic fill with 'NG'
+4. placed beside 'student/teacher' label and enters password as confirmation
+5. Ask the client
+
+ACTIONS:
+
+1. Adrian removed the delete strand under admin management.
+2-4. Dave and Joannah updated the Class Definition and Diagram.
+5. The teem had a meeting with the client.

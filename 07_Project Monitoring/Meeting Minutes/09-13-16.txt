@@ -1,0 +1,40 @@
+September 13, 2016(tuesday)
+3:00-4:30pm
+Venue: Bunzel Canteen TC
+
+Dave	1.5 hrs
+
+Joannah 1.5 hrs
+
+Adrian 	1.5 hrs
+
+Russell	1.5 hrs
+
+
+Total hrs	6hrs
+
+
+ISSUES:
+
+1. AccountDTO Class Diagram not started
+2. CourseDTO Class Diagram not started
+3. AccoutService Class Diagram not started
+4. CourseService Class Diagram not started
+5. Add Account Sequence Diagram not started
+6. Edit Account Sequence Diagram not started
+7. Delete Account Sequence Diagram not started
+
+RESOLUTION:
+
+1. start working on AccountDTO class Diagram
+2. start working on CourseDTO class Diagram
+3. start working on AccountService class Diagram
+4. start working on CourseService class Diagram
+5. start wrking on Add Account Sequence Diagram
+6. start working on Edit Account Sequence Diagram
+7. start working on Delete Account Sequence Diagram
+
+ACTIONS:
+
+1-4. Class Diagrams - Russell and Dave
+5-7. Sequence Diagrams - Joannah and Adrian

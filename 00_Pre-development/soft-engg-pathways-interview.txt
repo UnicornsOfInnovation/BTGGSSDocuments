@@ -1,0 +1,46 @@
+Problems in the organization
+	- system for volunteer management
+	- means to find funding for projects
+
+What makes these projects hinder
+	- Difficult to have a stable man power to execute a project
+	- how to assign proponents
+
+	- the activity may happen but not reach expectations of the organizers.
+
+System
+	- volunteer management
+	   - a database system for their performance
+	   - keep track where they are now.
+	   - data of volunteers
+
+	- attendance of volunteers in the events organized.
+	- storage of documents and activities
+	- different functions of committees
+
+	- add/delete a project -> add/delete committee -> add/delete volunteer
+
+	- keep track of the volunteers who volunteered or attended events and seminars.
+		- for keeping track of the specific tasks they have done.
+		- for keeping track of the activities / seminars externally attended.
+		- for keeping track of the membership fee.
+	- money
+
+
+The goal of the system: To create an application for the internal purposes
+of USC Pathways encompassing the following fields:
+	- Project Management
+	   ** add / delete project
+		--> name of project
+		--> purpose of project
+		--> kind of project
+		--> others
+	   ** add / delete committee
+		--> name of committee
+		--> purpose of committee
+		--> add / delete tasks of committee
+		-->
+	   ** add / delete volunteer in a committee
+	- Volunteer Management
+	- Financial Management
+	- other(s) when deem needed.

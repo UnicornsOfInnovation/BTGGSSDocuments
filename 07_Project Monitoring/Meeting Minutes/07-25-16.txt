@@ -1,0 +1,30 @@
+July 25, 2016 (Monday)
+
+Time Frame:3:00 - 4:30 pm
+
+Venue:  BUNZEL CANTEEN
+
+Dave    1.5 hrs
+
+Russell 1.5 hrs
+
+Adrian  1.5 hrs
+
+
+total minutes: 4.5 hr
+
+
+
+
+
+ISSUE:
+1. BTGGradeSubmissionSystem Database Structure finalization
+2. Tasking for Requirements and Specifications
+
+Resolution:
+1. Dave pointed out the deficits of the DB structure and discussed furthermore speculations of the System to help improve the DB structure 
+2. Identify further the particular Requirements and Specifications of the system before assigning the tasks
+
+Actions:
+1. Dave - Database structure
+2. Dave - Workflow of the system

@@ -1,0 +1,57 @@
+September 15, 2016(thursday)
+8:00pm-8:00am(fri)
+Venue:	Bag-ong dan, Consolacion
+
+Dave	12 hrs
+
+Adrian	12 hrs
+
+Joannah 12 hrs
+
+Russell 12 hrs
+
+
+Total hrs	48 hrs
+
+ISSUES:
+
+1. AccountDTO Class Diagram not finished
+2. CourseDTO Class Diagram not finished
+3. AccoutService Class Diagram not finished
+4. CourseService Class Diagram not finished
+5. AccountModel Class Diagram not started
+6. CourseModel Class Diagram not started
+7. AccountDAO Class Diagram not started
+8. CourseDAO Class Diagram not started
+9. Add Account Sequence Diagram not finished
+10. Edit Account Sequence Diagram not finished
+11. Delete Account Sequence Diagram not finished
+12. Add Course Sequence Diagram not started
+13. Edit Course Sequence Diagram not started
+14. Delete Course Sequence Diagram not started
+15. Database ERD not finished
+
+
+RESOLUTION:
+
+1. finish AccountDTO Class Diagram
+2. finish CourseDTO Class Diagram
+3. finish AccountService Class Diagram
+4. finish CourseService Class Diagram
+5. start and finish AccountModel Class Diagram
+6. start and finish CourseModel Class Diagram
+7. start and finish AccountDAO Class Diagram
+8. start and finish CourseDAO Class Diagram
+9. finish addAccount Sequence Diagram
+10. finish editAccount Sequence Diagram
+11. finish deleteAccount Sequence Diagram
+12. start and finish addCourse Sequence Diagram
+13. start and finish editCourse Sequence Diagram
+14. start and finish deleteCourse Sequence Diagram
+15. finish DATABASE ERD
+
+ACTIONS:
+
+1-8. Class Diagrams - Dave and Russell
+9-14. Sequence Diagrams - Joannah and Adrian
+15. DATABASE ERD - Adrian

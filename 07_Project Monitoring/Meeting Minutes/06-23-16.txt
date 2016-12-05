@@ -1,0 +1,39 @@
+June 23, 2016 (Thursday)
+
+Time Frame: 7:00 - 8:00
+
+Venue: LB264 TC
+
+Dave 1 hr
+
+Adrian 1 hr
+
+Russell 1 hr
+
+total minutes: 3hrs
+
+
+
+PATHWAYS MEETING #2
+
+-Dave made a Recap about last meeting.
+
+-BTG Grading System is chosen for Soft Eng project.
+
+-Dave talks about school-needs and its Software Response.
+
+-Adrian discussed the Technical Info.
+
+QUESTIONS:
+
+-is the system accessible publicly or privately?
+
+-is the subject default?
+
+-can the students see the subject schedule?
+
+Formed Idea(s):
+
+-enrol block schedule
+
+-Schedule System

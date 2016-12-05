@@ -1,0 +1,33 @@
+August 30, 2016 (TUESDAY)
+3:00pm-4:30pm
+VENUE:      4th floor Bunzel Building
+
+ADRIAN		1.5 hr
+JOANNAH	1.5 hr
+DAVE		1.5 hr
+RUSSELL	1.5 hr
+Total hours	6 hrs
+ISSUES:
+1. Admin Home Screen - not started
+2. Admin Manage Account Screen - not started
+3. Admin Add Student Screen - not started
+4. Admin Add Teacher Screen - not started
+5. Admin Edit Student Screen – not started
+6. Admin Edit Teacher Screen – not started
+7. Admin Delete Account Screen – not started
+
+RESOLUTIONS:
+1. Admin Home Screen should be started and finished.
+2. Admin Manage Account Screen should be started and finished.
+3. Admin Add Student Screen should be started and finished.
+4. Admin Add Teacher Screen should be started and finished.
+5. Admin Edit Student Screen should be started and finished.
+6. Admin Edit Teacher Screen should be started and finished.
+7. Admin Delete Account Screen should be started and finished.
+ 
+ACTIONS:
+For all issues,
+   	Joannah, will create the images of the screens.
+	Adrian and Russell will create the excel files.
+   	Dave will review the outputs.   
+

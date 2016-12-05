@@ -1,0 +1,42 @@
+September 1, 2016 (thursday)
+6:00pm-7:30pm
+
+Venue:	Bunzel Canteen
+
+
+Dave	1.5 hrs
+
+Adrian  1.5 hrs
+
+Joannah 1.5 hrs
+
+Russell 1.5 hrs
+
+
+Total hours      6hrs
+
+
+ISSUES:
+1. Admin Manage Course Screen - not started
+2. Admin Add Course Screen - not started
+3. Admin Edit Course Screen - not started
+4. Admin Delete Course Screen - not started
+5. Admin View Classlist Screen – not started
+6. Admin View Top 3 Screen – not started
+7. Admin View Best Students – not started
+
+RESOLUTIONS:
+1. Admin Manage Course Screen should be started and finished.
+2. Admin Add Course Screen should be started and finished.
+3. Admin Edit Course Screen should be started and finished.
+4. Admin Delete Course Screen should be started and finished.
+5. Admin View Classlist Screen should be started and finished.
+6. Admin View Top 3 Screen should be started and finished.
+7. Admin View Best Students should be started and finished.
+ 
+ACTIONS:
+For all issues,
+   	Joannah, will create the images of the screens.
+	Adrian and Russell will create the excel files.
+   	Dave will review the outputs.   
+

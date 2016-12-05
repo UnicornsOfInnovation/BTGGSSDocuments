@@ -1,0 +1,34 @@
+September 28, 2016 (Wednesday)
+3:00-4:30
+Venue:	Novel Cafe
+
+Dave	1.5 hrs
+
+Joannah	1.5 hrs
+
+Adrian	1.5 hrs
+
+Russell 1.5 hrs
+
+
+Total hours	6 hrs
+
+ISSUES:
+1. Student Download grades Sequence Diagram not finished
+2. Download Top 3 Sequence Diagram not finished
+3. Download Students Sequence Diagram not finished
+4. DB Design RRC not started
+5. Class Definition RRC not started
+6. Screen Definition RRC not started
+
+RESOLUTIONS:
+1. Finish Download grades Sequence Diagram
+2. Finish Download Top 3 Sequence Diagram
+3. Finish Download Students Sequence Diagram
+4. Start and finish DB Design RRC
+5. Start and finish Class Definition RRC
+6. Start and finish Screen Definition RRC
+
+ACTIONS:
+1. for all unfinished Sequence Diagram - Adrian
+2. for all RRC - Russell

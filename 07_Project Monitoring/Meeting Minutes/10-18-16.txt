@@ -1,0 +1,41 @@
+Ooctober 18, 2016 (Tuesday)
+1:00pm-5:00pm
+
+VENUE: CAFE BELLE
+
+
+Dave	    4 hr
+
+Adrian	    4 hr
+
+Joannah	    4 hr
+
+Russell     4 hr
+
+
+Total hours:  16 hr
+
+
+ISSUE:
+1. Login page screen not started
+2. Admin home screen not started
+3. Admin manage screens not started
+4. Admin view screens not started
+5. Teacher home screen not started
+6. Student home screen not started
+
+RESOLUTION:
+1. Start and finish Login page screen
+2. Start and finish Admin home screen
+3. Start and finish Admin manage screens
+4. Start and finish Admin view screens
+5. Start and finish Teacher home screen
+6. Start and finish Student home screen
+
+ACTIONS:
+1. Login page screen - joannah
+1. Admin home screen -	joannah
+2. Admin manage screens - adrian
+5. Admin view class screens - dave
+8. Teacher home screen - russell
+9. Student home screen - russell

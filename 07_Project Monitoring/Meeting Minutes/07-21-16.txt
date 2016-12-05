@@ -1,0 +1,31 @@
+July 21, 2016 (Thursday)
+
+Time Frame:6:00 - 8:00
+
+Venue:  LB-265 TC
+
+Dave    2 hrs
+
+Adrian  2 hrs
+
+Russell 2 hrs
+
+
+
+total minutes: 6 hrs
+
+
+
+
+
+
+ISSUE:
+1. BTGGradeSubmissionSystem Database Structure
+
+
+Resolution:
+1. Plan the System's module's and Construct a Database Structure
+
+
+Actions:
+1. Adrian, the configuration manager, will construct the database structure.

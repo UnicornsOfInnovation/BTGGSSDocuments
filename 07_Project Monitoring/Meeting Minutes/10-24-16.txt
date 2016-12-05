@@ -1,0 +1,49 @@
+Ooctober 24, 2016 (Monday)
+10:00am-4:00pm
+
+VENUE: Baclayon's Residence
+
+
+Dave	    6 hr
+
+Adrian	    6 hr
+
+
+
+Total hours:  12 hr
+
+
+ISSUE:
+1. AccountDTO Class not created
+2. AccountService class not created
+3. AccountModel class not created
+4. AccountDAO class not created
+5. CourseDTO Class not created
+6. CourseService class not created
+7. CourseModel class not created
+8. CourseDAO class not created
+9. Controllers not created
+
+
+RESOLUTION:
+1. create AccountDTO Class
+2. create AccountService class
+3. create AccountModel class
+4. create AccountDAO class
+5. create Controllers
+6. create CourseDTO Class
+7. create CourseService class
+8. create CourseModel class
+8. create CourseDAO class
+
+
+ACTIONS:
+1. Account DTO class - Dave
+2. Account Service class - Dave
+3. Account Model class - Dave
+4. Account DAO class - Dave
+5. Controllers - Dave
+6. Course DTO class - Adrian
+7. Course Service class - Adrian
+8. Course Model class - Adrian
+9. Course DAO class - Adrian
