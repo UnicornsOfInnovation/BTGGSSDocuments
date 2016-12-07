@@ -1,0 +1,122 @@
+=====================================================================
+[PROJECT NAME]............ <BTG Grade Submission System>
+[RELEASE VERSION]......... 02.00.00
+[RELEASE DATE]............ 2016/12/07
+[PLATFORM / VERSION]...... Java version 1.7.0_79			   
+		           eclipse-32
+			   appengine-java-sdk.1.8.1
+			   Git-1.8.3
+			   slim3-blank
+
+[SUPPORTED MODULES] ------------------------------------------------
+
+    1. Search Account
+    2. Search Course
+    3. Change Password
+    4. Login
+    5. Display Teacher information
+    6. Display Student information
+    7. Edit Grades
+
+[LIMITATIONS] -------------------------------------------------------
+    
+    1.  [COMMON] Server error occurs rarely.
+    2.  [COMMON] No strict validations yet.
+
+[KNOWN BUGS] --------------------------------------------------------
+    
+    NOT AVAILABLE FOR THIS RELEASE
+    
+[FIXED BUGS] --------------------------------------------------------
+
+    NOT AVAILABLE FOR THIS RELEASE
+
+[RELEASE FILES] -----------------------------------------------------
+
+    1. <APPLICATION FILENAME>
+     Filename: BTGGradeSubmissionSystem_2016_Release_02.00.00.rar
+    2. <DATABASE BACKUP FILENAME>
+     Filename: BTGGradeSubmissionSystem_DB_20161207.bin
+
+
+[ADDED FILES] -------------------------------------------------------
+
+     1. ACCOUNT MANAGEMENT:
+	src/btg/controller/AccountController.java
+        src/btg/dao/AccountDao.java
+	src/btg/dto/AccountDto.java
+	src/btg/meta/AccountModelMeta.java
+	src/btg/model/AccountModel.java
+	src/btg/service/AccountService.java
+	war/js/account.js
+	html/account.html
+
+     2. COURSE MANAGEMENT:
+        src/btg/controller/CourseController.java
+        src/btg/dao/CourseDao.java
+	src/btg/dto/CourseDto.java
+	src/btg/meta/CourseModelMeta.java
+	src/btg/model/CourseModel.java
+	src/btg/service/CourseService.java
+	war/js/course.js
+        html/course.js
+
+	**COMMON FILES
+	war/js/adminMain.js
+	war/js/angular.js
+	war/js/angular-route.js
+	html/admin.html
+
+
+[MODIFIED FILES]  ---------------------------------------------------
+
+     NOT AVAILABLE FOR THIS RELEASE
+
+
+[REMOVED FILES] -----------------------------------------------------
+
+     NOT AVAILABLE FOR THIS RELEASE
+
+    
+[VIRUS CHECK] -------------------------------------------------------
+
+    1. Windows Defender
+	Antimalware client version:		4.10.14393.0
+	Engine version: 			1.1.13202.0
+	Antivirus definition: 			1.231.1520.0
+	Antispyware definition: 		1.231.1520.0
+	Network inspection system
+	engine version: 			2.1.12706.0
+	Network inspection system
+	definition version: 			116.65.0.0
+
+
+[SPECIAL COMMENTS] --------------------------------------------------
+
+    NONE
+
+
+[DESTINATION] -------------------------------------------------------
+- The release files can be accessed in the following location
+
+    1.  https://github.com/UnicornsOfInnovation/BTGGradeSubmissionSystem.git
+
+
+[RELEASE MEMO] ------------------------------------------------------
+- The release notes is sent to the following recipients
+
+    1. Erwin Sarmiento       <esarmiento0302@gmail.com>
+    2. Dave Baclayon         <davebaclayon@gmail.com>
+    3. Adrian Rivera         <adrianrivera800@gmail.com>
+    4. Russell Codilla       <codilla.russell@gmail.com>
+    5. Russell Codilla	     <codilla.russell@gmail.com>
+
+
+=====================================================================
+
+APPROVED BY: CHRISTIAN DAVE B. BACLAYON
+
+//nothing follows
+
+
+

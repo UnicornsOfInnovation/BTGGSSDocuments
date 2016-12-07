@@ -1,0 +1,16 @@
+Folder,Files,LOC,SLOC-P,SLOC-L,MVG,BLOC,C&SLOC,CLOC,CWORD,HCLOC,HCWORD
+Total,44,6002,3971,3161,407,1045,3,986,4719,210,1028
+C:\Users\davebaclayon\Desktop\BTGGradeSubmissionSystem,44,6002,3971,3161,407,1045,3,986,4719,210,1028
+C:\Users\davebaclayon\Desktop\BTGGradeSubmissionSystem\src,39,5907,3906,3111,407,1015,3,986,4719,210,1028
+C:\Users\davebaclayon\Desktop\BTGGradeSubmissionSystem\src\btg,39,5907,3906,3111,407,1015,3,986,4719,210,1028
+C:\Users\davebaclayon\Desktop\BTGGradeSubmissionSystem\src\btg\common,1,85,14,13,0,21,0,50,145,5,25
+C:\Users\davebaclayon\Desktop\BTGGradeSubmissionSystem\src\btg\controller,10,1386,806,699,58,228,2,352,1949,67,331
+C:\Users\davebaclayon\Desktop\BTGGradeSubmissionSystem\src\btg\dao,5,602,297,224,19,162,1,143,802,38,196
+C:\Users\davebaclayon\Desktop\BTGGradeSubmissionSystem\src\btg\dto,7,592,447,320,59,85,0,60,250,32,157
+C:\Users\davebaclayon\Desktop\BTGGradeSubmissionSystem\src\btg\meta,5,1133,901,694,97,146,0,86,212,0,0
+C:\Users\davebaclayon\Desktop\BTGGradeSubmissionSystem\src\btg\model,5,912,599,418,120,174,0,139,363,26,109
+C:\Users\davebaclayon\Desktop\BTGGradeSubmissionSystem\src\btg\service,5,1149,812,721,50,187,0,150,973,37,189
+C:\Users\davebaclayon\Desktop\BTGGradeSubmissionSystem\src\btg\session,1,48,30,22,4,12,0,6,25,5,21
+C:\Users\davebaclayon\Desktop\BTGGradeSubmissionSystem\test,5,95,65,50,0,30,0,0,0,0,0
+C:\Users\davebaclayon\Desktop\BTGGradeSubmissionSystem\test\budget,5,95,65,50,0,30,0,0,0,0,0
+C:\Users\davebaclayon\Desktop\BTGGradeSubmissionSystem\test\budget\model,5,95,65,50,0,30,0,0,0,0,0
