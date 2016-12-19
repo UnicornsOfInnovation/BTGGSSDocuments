@@ -41,6 +41,56 @@
 
 [ADDED FILES] -------------------------------------------------------
 
+     1. STRAND MANAGEMENT
+	src/btg/controller/StrandController.java
+	src/btg/dao/StrandDao.java
+	src/btg/dto/StrandDto.java
+	src/btg/meta/StrandModelMeta.java
+	src/btg/model/StrandModel.java
+	src/btg/service/StrandService.java
+	war/html/templates/strand.html
+	war/js/strand.js
+
+     2. GRADE MANAGEMENT
+	src/btg/controller/GradeController.java
+	src/btg/dao/GradeDao.java
+	src/btg/dto/GradeDto.java
+	src/btg/dto/StudentGradeDto.java
+	src/btg/meta/GradeModelMeta.java
+	src/btg/model/GradeModel.java
+	src/btg/service/GradeService.java
+
+     3. BEST STUDENT MANAGEMENT
+	src/btg/controller/BestStudentController.java
+	src/btg/dao/BestStudentDao.java
+	src/btg/dto/BestStudentDto.java
+	src/btg/meta/BestStudentModelMeta.java
+	src/btg/model/BestStudentModel.java
+	src/btg/service/BestStudentService.java
+
+     4. LOG-IN MANAGEMENT
+	src/btg/controller/AdminPageController.java
+	src/btg/controller/IndexController.java
+	src/btg/controller/LoginController.java
+	src/btg/controller/StudentPageController.java
+	src/btg/controller/TeacherPageController.java
+	src/btg/dto/BaseDto.java
+	src/btg/session/SessionManager.java 
+	war/html/login.html
+	war/html/student.html
+	war/html/teacher.html
+	war/js/login.js
+	war/js/student.js
+	war/js/teacher.js
+
+     **COMMON FILES
+	src/btg/common/GlobalConstants.java
+	war/js/sharedService.js
+	war/js/test.html
+	
+
+[MODIFIED FILES]  ---------------------------------------------------
+
      1. ACCOUNT MANAGEMENT:
 	src/btg/controller/AccountController.java
         src/btg/dao/AccountDao.java
@@ -66,12 +116,6 @@
 	war/js/angular.js
 	war/js/angular-route.js
 	html/admin.html
-
-
-[MODIFIED FILES]  ---------------------------------------------------
-
-     NOT AVAILABLE FOR THIS RELEASE
-
 
 [REMOVED FILES] -----------------------------------------------------
 
