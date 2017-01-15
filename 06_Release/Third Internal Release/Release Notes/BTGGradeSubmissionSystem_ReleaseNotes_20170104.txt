@@ -1,0 +1,181 @@
+=====================================================================
+[PROJECT NAME]............ <BTG Grade Submission System>
+[RELEASE VERSION]......... 03.00.00
+[RELEASE DATE]............ 2017/01/04
+[PLATFORM / VERSION]...... Java version 1.7.0_79			   
+		           eclipse-32
+			   appengine-java-sdk.1.8.1
+			   Git-1.8.3
+			   slim3-blank
+
+[SUPPORTED MODULES] ------------------------------------------------
+
+    1. Search Account
+    1. Add Teacher Account
+    2. Add Student Account
+    3. Edit Teacher Account
+    4. Edit Student Account
+    5. Delete Account
+    6. Add Course
+    7. Edit Course
+    8. Delete Course
+    9. Get All Accounts
+   10. Get All Courses    
+   11. Search Account
+   12. Search Course
+   13. Change Password
+   14. Login
+   15. Display Teacher information
+   16. Display Student information
+   17. Edit Grades
+   18. View Best Student
+   19. View Class List
+   20. Download Best Student
+   21. Download Class List
+   22. Download Grade
+
+[LIMITATIONS] -------------------------------------------------------
+    
+
+[KNOWN BUGS] --------------------------------------------------------
+    
+    NONE
+    
+[FIXED BUGS] --------------------------------------------------------
+
+    NONE
+
+[RELEASE FILES] -----------------------------------------------------
+
+    1. <APPLICATION FILENAME>
+     Filename: BTGGradeSubmissionSystem_2017_Release_03.00.00.rar
+    2. <DATABASE BACKUP FILENAME>
+     Filename: BTGGradeSubmissionSystem_DB_20170104.bin
+
+
+[ADDED FILES] -------------------------------------------------------
+
+     1. BEST STUDENT MANAGEMENT
+	src/btg/controller/BestStudentsController.java
+	war/js/bestStudent.js
+	war/html/templates/bestStudent.html
+	war/BestStudents.jsp
+
+     2. CLASS LIST MANAGEMENT
+	war/js/classList.js
+	war/html/templates/classList.html
+
+     3. DOWNLOAD MODULES	
+	war/js/html2canvas.js
+	war/js/jspdf.js
+
+[MODIFIED FILES]  ---------------------------------------------------
+
+     1. ACCOUNT MANAGEMENT:
+	src/btg/controller/AccountController.java
+        src/btg/dao/AccountDao.java
+	src/btg/dto/AccountDto.java
+	src/btg/meta/AccountModelMeta.java
+	src/btg/model/AccountModel.java
+	src/btg/service/AccountService.java
+	war/js/account.js
+	html/account.html
+
+     2. COURSE MANAGEMENT:
+        src/btg/controller/CourseController.java
+        src/btg/dao/CourseDao.java
+	src/btg/dto/CourseDto.java
+	src/btg/meta/CourseModelMeta.java
+	src/btg/model/CourseModel.java
+	src/btg/service/CourseService.java
+	war/js/course.js
+        html/course.js
+
+     3. GRADE MANAGEMENT
+	src/btg/controller/GradeController.java
+	src/btg/dao/GradeDao.java
+	src/btg/dto/GradeDto.java
+	src/btg/dto/StudentGradeDto.java
+	src/btg/meta/GradeModelMeta.java
+	src/btg/model/GradeModel.java
+	src/btg/service/GradeService.java
+
+     5. BEST STUDENT MANAGEMENT
+	src/btg/controller/BestStudentController.java
+	src/btg/dao/BestStudentDao.java
+	src/btg/dto/BestStudentDto.java
+	src/btg/meta/BestStudentModelMeta.java
+	src/btg/model/BestStudentModel.java
+	src/btg/service/BestStudentService.java
+
+     6. LOG-IN MANAGEMENT
+	src/btg/controller/AdminPageController.java
+	src/btg/controller/IndexController.java
+	src/btg/controller/LoginController.java
+	src/btg/controller/StudentPageController.java
+	src/btg/controller/TeacherPageController.java
+	src/btg/dto/BaseDto.java
+	src/btg/session/SessionManager.java 
+	war/html/login.html
+	war/html/student.html
+	war/html/teacher.html
+	war/js/login.js
+	war/js/student.js
+	war/js/teacher.js
+
+	**COMMON FILES
+	war/js/adminMain.js
+	war/js/angular.js
+	war/js/angular-route.js
+	html/admin.html
+	src/btg/common/GlobalConstants.java
+	war/js/sharedService.js
+	war/js/test.html
+
+[REMOVED FILES] -----------------------------------------------------
+
+     NOT AVAILABLE FOR THIS RELEASE
+
+    
+[VIRUS CHECK] -------------------------------------------------------
+
+    1. Windows Defender
+	Antimalware client version:		4.10.14393.0
+	Engine version: 			1.1.13202.0
+	Antivirus definition: 			1.231.1520.0
+	Antispyware definition: 		1.231.1520.0
+	Network inspection system
+	engine version: 			2.1.12706.0
+	Network inspection system
+	definition version: 			116.65.0.0
+
+
+[SPECIAL COMMENTS] --------------------------------------------------
+
+    NONE
+
+
+[DESTINATION] -------------------------------------------------------
+- The release files can be accessed in the following location
+
+    1.  https://github.com/UnicornsOfInnovation/BTGGradeSubmissionSystem.git
+
+
+[RELEASE MEMO] ------------------------------------------------------
+- The release notes is sent to the following recipients
+
+    1. Erwin Sarmiento       <esarmiento0302@gmail.com>
+    2. Dave Baclayon         <davebaclayon@gmail.com>
+    3. Adrian Rivera         <adrianrivera800@gmail.com>
+    4. Russell Codilla       <codilla.russell@gmail.com>
+    5. Russell Codilla	     <codilla.russell@gmail.com>
+
+
+=====================================================================
+
+APPROVED BY: CHRISTIAN DAVE B. BACLAYON
+
+//nothing follows
+
+
+

@@ -10,13 +10,23 @@
 
 [SUPPORTED MODULES] ------------------------------------------------
 
-    1. Search Account
-    2. Search Course
-    3. Change Password
-    4. Login
-    5. Display Teacher information
-    6. Display Student information
-    7. Edit Grades
+    1. Add Teacher Account
+    2. Add Student Account
+    3. Edit Teacher Account
+    4. Edit Student Account
+    5. Delete Account
+    6. Add Course
+    7. Edit Course
+    8. Delete Course
+    9. Get All Accounts
+   10. Get All Courses    
+   11. Search Account
+   12. Search Course
+   13. Change Password
+   14. Login
+   15. Display Teacher information
+   16. Display Student information
+   17. Edit Grades
 
 [LIMITATIONS] -------------------------------------------------------
     
