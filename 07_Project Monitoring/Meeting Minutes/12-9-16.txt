@@ -1,0 +1,49 @@
+December 9, 2016(Friday)
+Venue:	Dave's Dorm
+1:00-3:00pm
+
+
+Dave	2 hrs
+
+Adrian	2 hrs
+
+Joannah	2 hrs
+
+Russell	2 hrs
+
+
+Total hrs	8 hrs
+
+
+ISSUES:
+1. Login UTS not started
+2. Change Password UTS not started
+3. Student Home Screen UTS not started
+4. Download Grades UTS not started
+5. Teacher Home Screen UTS not started
+6. Download Class list UTS not started
+7. Edit Grades UTS not started
+8. BTG View Best Students for release 3 not started
+9. BTG View Class lists for release 3 not started
+
+RESOLUTIONS:
+1. Login UTS should be started and finished
+2. Change Password UTS should be started and finished
+3. Student Home Screen UTS should be started and finished
+4. Download Grades UTS should be started and finished
+5. Teacher Home Screen UTS should be started and finished
+6. Download Class list UTS should be started and finished
+7. Edit Grades UTS should be started and finished
+8. BTG View Best Students should be started and finished for release 3
+9. BTG View Class lists should be started and finished for release 3
+
+ACTIONS:
+1. Joannah - Login UTS
+	     Change Password UTS
+	     Student Home Screen UTS
+	     Download Grades UTS
+2. Russell - Teacher Home Screen UTS
+	     Download Class list UTS
+	     Edit Grades UTS
+3. Dave	-    BTG View Best Student
+4. Adrian -  BTG View Class List
