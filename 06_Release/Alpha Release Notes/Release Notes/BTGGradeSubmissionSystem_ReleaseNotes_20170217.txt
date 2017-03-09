@@ -1,0 +1,263 @@
+=====================================================================
+[PROJECT NAME]............ <BTG Grade Submission System>
+[RELEASE VERSION]......... 03.00.00
+[RELEASE DATE]............ 2017/01/04
+[PLATFORM / VERSION]...... Java version 1.7.0_79			   
+		           eclipse-32
+			   appengine-java-sdk.1.8.1
+			   Git-1.8.3
+
+[SUPPORTED MODULES] ------------------------------------------------
+
+    1. Search Account
+    1. Add Teacher Account
+    2. Add Student Account
+    3. Edit Teacher Account
+    4. Edit Student Account
+    5. Delete Account
+    6. Add Course
+    7. Edit Course
+    8. Delete Course
+    9. Get All Accounts
+   10. Get All Courses    
+   11. Search Account
+   12. Search Course
+   13. Change Password
+   14. Login
+   15. Display Teacher information
+   16. Display Student information
+   17. Edit Grades
+   18. View Best Student
+   19. View Class List
+   20. Download Best Student
+   21. Download Class List
+   22. Download Grade
+
+[LIMITATIONS] -------------------------------------------------------
+    
+	Database Limitations since it is not deployed on the web
+	 - one account at a time. So you can only open one page and login one user at a time.
+ 	 - Server Controller Error: Null upon adding. This is due to Database limitations when not deployed on web.
+		- when this error persists, delete entry in the database (link found in manual) and re enter the details.
+		- this happens often times.
+
+[KNOWN BUGS] --------------------------------------------------------
+    
+    - Sessions are still undergoing.
+    
+[FIXED BUGS] --------------------------------------------------------
+
+637468	{UT}[CHANGE PASSWORD] Input field in teacher account change password is not text
+637467	{UT}[CHANGE PASSWORD] Teacher account change password doesn't provide guide on correct format for password
+637462	{UT}[ADD ACCOUNT] Parent Contact Number can still accept more than 11 characters
+637456	{UT}[ADD COURSE] Course name and Course code should display necessary input validations in red.
+637455	{UT}[EDIT COURSE] Course name and Course code should display necessary input validations in red.
+637452	{UT} [STUDENT INFORMATION] The header is named as Course Desccription instead of Course Name
+637441	{UT}[DOWNLOAD] All Download buttons should be placed at the bottom center of the screen.
+637430	{UT}[ADD COURSE] Course Type is displaced please see attached picture
+637219	{UT}[CHANGE PASSWORD] Format of password should still be looked into 
+637218	{UT}[CHANGE PASSWORD] Doesn't recognize the current password.
+637210	{UT}[DOWNLOAD BEST STUDENT] Best Student List PDF doesn't have a header in the PDF.
+637209	{UT}[ADMIN ACCOUNT] Admin account doesn't have a change password button.
+637208	{UT}[ADMIN ACCOUNT] Admin account doesn't have a log-out button.
+637207	{UT}[DOWNLOAD GRADES] Grades should display the GPA up to 2 decimal places.
+637205	{UT}[STUDENT INFORMATION] Grades should display the GPA up to 2 decimal places.
+637204	{UT}[DOWNLOAD GRADES] Grades should be sorted in alphabetical order according to course name.
+637203	{UT} [VIEW BEST STUDENTS] Not sorted in alphabetical order
+637201	{UT} [ADD TEACHER ACCOUNT] Course is already taught but can be assigned to another teacher.
+637200	{UT} [EDIT TEACHER ACCOUNT] Course is already taught but can be assigned to another teacher.
+637198	{UT} [EDIT TEACHER ACCOUNT] Teacher course should not be editable
+637197	{UT} [EDIT STUDENT ACCOUNT] Strand not disabled
+636605	{UT} [VIEW GRADES] Grade displayed in wrong sequence
+636596	{UT} [CHANGE PASSWORD] Accepts more than 12 characters
+635924	{UT} [EDIT STUDENT ACCOUNT] Accepts username that already exist
+635923	{UT} [EDIT TEACHER ACCOUNT] Accepts username that already exist
+635639	{UT} [ADD/EDIT ACCOUNT] Close button displays "?~"
+635638	{UT} [ADD TEACHER ACCOUNT] Adds account even if the subject already has a teacher
+635636	{UT} [ADD TEACHER ACCOUNT] Accepts username that already exist
+635634	{UT} [ADD STUDENT ACCOUNT] Accepts username that already exist
+635630	{UT} [MANAGE ACCOUNT] Contact numbers does not display
+635411	{UT}[EDIT COURSE] Course Code should be unique.
+635408	{UT}[ADD COURSE] Course Code should be unique.
+635399	{UT}[ADD COURSE] Course Units should only accept values from 1 to 5, no floating and negative values
+635395	{UT}[EDIT COURSE] Course Units should only accept values from 1 to 5, no floating and negative values 
+635394	{UT}[ADD COURSE] Course name should be at most 36 characters
+635392	{UT}[EDIT COURSE] Course name should be at most 36 characters
+635389	{UT}[EDIT COURSE] Course code must accept at most 10 characters
+635385	{UT}[ADD COURSE] Course code must accept at most 10 characters
+635374	{UT}[LOGOUT] No Logout button for admin
+635373	{UT}[ADD STUDENT ACCOUNT] If no proper option was chosen in the strand field, the error message is not user friendly.
+635107	{UT}[EDIT STUDENT ACCOUNT] Success entry even if email address not in proper format
+635106	{UT}[EDIT TEACHER ACCOUNT] Success entry even if email address not in proper format
+635104	{UT}[ADD TEACHER ACCOUNT] Success entry even if email address not in proper format
+635103	{UT}[ADD STUDENT ACCOUNT] Success entry even if email address not in proper format
+635093	{UT}[EDIT STUDENT ACCOUNT] Contact Number accepts negative numbers
+635092	{UT}[EDIT TEACHER ACCOUNT] Contact Number accepts negative numbers
+635085	{UT}[ADD STUDENT ACCOUNT] Contact Number accepts negative numbers
+635084	{UT}[ADD TEACHER ACCOUNT] Contact Number accepts negative numbers
+634399	{UT}[EDIT TEACHER ACCOUNT] Accepts first name that has more than 36 characters
+634398	{UT}[EDIT TEACHER ACCOUNT] Accepts last name that has more than 36 characters
+634397	{UT}[EDIT STUDENT ACCOUNT] Accepts first name that has more than 36 characters
+634396	{UT}[EDIT STUDENT ACCOUNT] Accepts last name that has more than 36 characters
+634395	{UT}[ADD STUDENT ACCOUNT] Accepts last name that has more than 36 characters
+634394	{UT}[ADD TEACHER ACCOUNT] Accepts last name that has more than 36 characters
+634393	{UT}[ADD STUDENT ACCOUNT] Insert operation success with school having less than 24 characters.
+634392	{UT}[ADD STUDENT ACCOUNT] Password is in password type
+634391	{UT}[ADD TEACHER ACCOUNT] Password is in password type
+634390	{UT}[ADD TEACHER ACCOUNT] Username didn't reach minimum number of characters and insert operation still successful
+634389	{UT}[ADD STUDENT ACCOUNT] Username didn't reach minimum number of characters and insert operation still successful
+634388	{UT}[ADD TEACHER ACCOUNTS] Contact Number accepts more than 11 numbers
+634387	{UT}[ADD STUDENT ACCOUNT] Contact Number accepts more than 11 numbers
+634385	{UT}[ADD STUDENT ACCOUNT] Year Level should only be 11 and 12
+634383	{UT}[VIEW ACCOUNTS] Sorting of accounts are not in order
+634381	{UT}[ADD TEACHER ACCOUNT] Accepts first name that has more than 36 characters
+634379	{UT}[ADD STUDENT ACCOUNT] Accepts first name that has more than 36 characters
+637530	{UT} [TEACHER INFORMATION] Download class list button not in place
+637528	{UT} [TEACHER INFORMATION] Display of student names
+637445	{UT}[LOGIN MANAGEMENT] After logging in, press back, proceeds to log-out screen, when pressed forward, comes back to the logged in user.
+637443	{UT}[LOGIN MANAGEMENT] Logged in user when press back in browser opens the login screen.
+
+
+[RELEASE FILES] -----------------------------------------------------
+
+    1. <APPLICATION FILENAME>
+     Filename: BTGGradeSubmissionSystem_2017_Alpha_Release_01.00.00.rar
+    2. <DATABASE BACKUP FILENAME>
+     Filename: BTGGradeSubmissionSystem_DB_20170217.bin
+
+
+[ADDED FILES] -------------------------------------------------------
+
+
+[MODIFIED FILES]  ---------------------------------------------------
+
+     1. ACCOUNT MANAGEMENT
+	src/btg/controller/AccountController.java
+	src/btg/dao/AccountDao.java
+	src/btg/dto/AccountDto.java
+	src/btg/meta/AccountModelMeta.java
+	src/btg/model/AccountModel
+	src/btg/service/AccountService.java
+	war/html/templates/account.html
+	war/js/account.js
+
+     2. COURSE MANAGEMENT
+        src/btg/controller/CourseController.java
+        src/btg/dao/CourseDao.java
+	src/btg/dto/CourseDto.java
+	src/btg/meta/CourseModelMeta.java
+	src/btg/model/CourseModel.java
+	src/btg/service/CourseService.java
+	war/js/course.js
+        html/course.js
+
+     3. STRAND MANAGEMENT
+	src/btg/controller/StrandController.java
+	src/btg/dao/StrandDao.java
+	src/btg/dto/StrandDto.java
+	src/btg/meta/StrandModelMeta.java
+	src/btg/model/StrandModel.java
+	src/btg/service/StrandService.java
+	war/html/templates/strand.html
+	war/js/strand.js
+
+     4. GRADE MANAGEMENT
+	src/btg/controller/GradeController.java
+	src/btg/dao/GradeDao.java
+	src/btg/dto/GradeDto.java
+	src/btg/dto/StudentGradeDto.java
+	src/btg/meta/GradeModelMeta.java
+	src/btg/model/GradeModel.java
+	src/btg/service/GradeService.java
+
+     5. LOGIN MANAGEMENT
+	src/btg/controller/AdminPageController.java
+	src/btg/controller/IndexController.java
+	src/btg/controller/LoginController.java
+	src/btg/controller/StudentPageController.java
+	src/btg/controller/TeacherPageController.java
+	src/btg/dto/BaseDto.java
+	src/btg/session/SessionManager.java 
+	war/html/login.html
+	war/html/student.html
+	war/html/teacher.html
+	war/js/login.js
+	war/js/student.js
+	war/js/teacher.js
+
+     6. BEST STUDENT MANAGEMENT
+	src/btg/controller/BestStudentController.java
+	src/btg/dao/BestStudentDao.java
+	src/btg/dto/BestStudentDto.java
+	src/btg/meta/BestStudentModelMeta.java
+	src/btg/model/BestStudentModel.java
+	src/btg/service/BestStudentService.java
+	src/btg/controller/BestStudentsController.java
+	war/js/bestStudent.js
+	war/html/templates/bestStudent.html
+	war/BestStudents.jsp
+
+     7. CLASS LIST MANAGEMENT
+	war/js/classList.js
+	war/html/templates/classList.html
+
+     8. DOWNLOAD MANAGEMENT	
+	war/js/html2canvas.js
+	war/js/jspdf.js
+
+     **COMMON FILES
+	war/js/adminMain.js
+	war/js/angular.js
+	war/js/angular-route.js
+	html/admin.html
+	src/btg/common/GlobalConstants.java
+	war/js/sharedService.js
+	war/js/test.html
+
+[REMOVED FILES] -----------------------------------------------------
+
+     NOT AVAILABLE FOR THIS RELEASE
+
+    
+[VIRUS CHECK] -------------------------------------------------------
+
+    1. Windows Defender
+	Antimalware client version:		4.10.14393.0
+	Engine version: 			1.1.13202.0
+	Antivirus definition: 			1.231.1520.0
+	Antispyware definition: 		1.231.1520.0
+	Network inspection system
+	engine version: 			2.1.12706.0
+	Network inspection system
+	definition version: 			116.65.0.0
+
+
+[SPECIAL COMMENTS] --------------------------------------------------
+
+    NONE
+
+
+[DESTINATION] -------------------------------------------------------
+- The release files can be accessed in the following location
+
+    1.  https://github.com/UnicornsOfInnovation/BTGGradeSubmissionSystem.git
+
+
+[RELEASE MEMO] ------------------------------------------------------
+- The release notes is sent to the following recipients
+
+    1. Erwin Sarmiento       <esarmiento0302@gmail.com>
+    2. Dave Baclayon         <davebaclayon@gmail.com>
+    3. Adrian Rivera         <adrianrivera800@gmail.com>
+    4. Russell Codilla       <codilla.russell@gmail.com>
+    5. Russell Codilla	     <codilla.russell@gmail.com>
+
+
+=====================================================================
+
+APPROVED BY: CHRISTIAN DAVE B. BACLAYON
+
+//nothing follows
+
+
+

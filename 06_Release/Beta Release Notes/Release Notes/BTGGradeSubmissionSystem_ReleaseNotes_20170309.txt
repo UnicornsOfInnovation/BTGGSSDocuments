@@ -1,0 +1,215 @@
+=====================================================================
+[PROJECT NAME]............ <BTG Grade Submission System>
+[RELEASE VERSION]......... 05.00.00
+[RELEASE DATE]............ 2017/03/09
+[PLATFORM / VERSION]...... Java version 1.7.0_79			   
+		           eclipse-32
+			   appengine-java-sdk.1.8.1
+			   Git-1.8.3
+
+[SUPPORTED MODULES] ------------------------------------------------
+
+    1. Search Account
+    1. Add Teacher Account
+    2. Add Student Account
+    3. Edit Teacher Account
+    4. Edit Student Account
+    5. Delete Account
+    6. Add Course
+    7. Edit Course
+    8. Delete Course
+    9. Get All Accounts
+   10. Get All Courses    
+   11. Search Account
+   12. Search Course
+   13. Change Password
+   14. Login
+   15. Display Teacher information
+   16. Display Student information
+   17. Edit Grades
+   18. View Best Student
+   19. View Class List
+   20. Download Best Student
+   21. Download Class List
+   22. Download Grade
+
+[LIMITATIONS] -------------------------------------------------------
+    
+	Database Limitations since it is not deployed on the web
+	 - one account at a time. So you can only open one page and login one user at a time.
+ 	 - Server Controller Error: Null upon adding. This is due to Database limitations when not deployed on web.
+		- when this error persists, delete entry in the database (link found in manual) and re enter the details.
+		- this happens often times.
+
+[KNOWN BUGS] --------------------------------------------------------
+   
+    
+[FIXED BUGS] --------------------------------------------------------
+
+642487	{IT}[EDIT ACCOUNT] Usernames with lesser than 11 characters are accepted.
+642485	{IT}[ADD/EDIT ACCOUNT] After adding/editing, scrolling becomes disabled in Manage Account screen
+642484	{IT}[ADD/EDIT ACCOUNT] Username must not be added/edited when an existing account has the same username regardless of its case
+642483	{IT}[ADD/EDIT COURSE] Same course code with different cases (lower/upper) is still accepted
+642481	{IT}[VIEW CLASSLIST] Deleted student accounts are seen under the class list and are displayed twice
+642479	{IT}[ADD/EDIT ACCOUNT] Duplicate email produces a "Server controller Error: null" error
+642478	{IT}[ADD ACCOUNT] School field must not be set to a minimum of 24 characters. Ex. University of Cebu
+640613	{IT}[LOGIN MANAGEMENT] Any account can login to the admin account. First login any teacher or student account then on the url bar above, change /teacherPage or /studentPage to /adminPage
+640609	{IT}[EDIT GRADES] When one student is NG and other students have grade inputted, a JSON Exception shows up (prompt must be understandable to users or allow NG, NC, W - depends on grading system to the Grade field)
+640604	{IT}[ADD ACCOUNT] No maximum length for School field, which later alerts item not successfully inserted after clicking Add button. Although insertion failed, the account can still be found in the list
+640603	{IT}[CHANGE PASSWORD] Password changes do not take effect until the page is refreshed so successive password changes do not work.
+640602	{IT}[EDIT GRADES] When editing the grade of the student and not click "Save changes" button but instead click "Cancel" button it will not go back to its original initial value unless being refreshed
+640592	{IT}[VIEW ACCOUNT/CLASSLIST] Both student and teacher lists aren't arranged alphabetically by last name
+640590	{IT}[ADD/EDIT COURSE] After adding or editing, scrolling becomes disabled in Manage Courses Screen
+640589	{IT}[EDIT COURSE] When trying to edit field/s and not clicking the "Save changes" button but instead click on "Close" button, it does not go back to its original initial values when you click the "Edit" button again unless being refreshed
+638981	{IT}[CHANGE PASSWORD] After successfully changing password, and clicking change password again, fields are not cleared
+638979	{IT}[CHANGE PASSWORD] Password Fields are not password type
+638978	{IT}[LOGIN MANAGEMENT] Deleted user can still login and its data is still saved
+638976	{IT}[LOGIN MANAGEMENT] After logging out and clicking browser back button, the browser redirects you to the previous page and displays the error message
+638972	{IT}[LOGIN MANAGEMENT] Multiple login sessions when the system/localhost:8888 is opened in a different tab in the same browser
+
+
+
+[RELEASE FILES] -----------------------------------------------------
+
+    1. <APPLICATION FILENAME>
+     Filename: BTGGradeSubmissionSystem_2017_Beta_Release_01.00.00.rar
+    2. <DATABASE BACKUP FILENAME>
+     Filename: BTGGradeSubmissionSystem_DB_20170309.bin
+
+
+[ADDED FILES] -------------------------------------------------------
+
+	NONE FOR THIS RELEASE
+
+[MODIFIED FILES]  ---------------------------------------------------
+
+     1. ACCOUNT MANAGEMENT
+	src/btg/controller/AccountController.java
+	src/btg/dao/AccountDao.java
+	src/btg/dto/AccountDto.java
+	src/btg/meta/AccountModelMeta.java
+	src/btg/model/AccountModel
+	src/btg/service/AccountService.java
+	war/html/templates/account.html
+	war/js/account.js
+
+     2. COURSE MANAGEMENT
+        src/btg/controller/CourseController.java
+        src/btg/dao/CourseDao.java
+	src/btg/dto/CourseDto.java
+	src/btg/meta/CourseModelMeta.java
+	src/btg/model/CourseModel.java
+	src/btg/service/CourseService.java
+	war/js/course.js
+        html/course.js
+
+     3. STRAND MANAGEMENT
+	src/btg/controller/StrandController.java
+	src/btg/dao/StrandDao.java
+	src/btg/dto/StrandDto.java
+	src/btg/meta/StrandModelMeta.java
+	src/btg/model/StrandModel.java
+	src/btg/service/StrandService.java
+	war/html/templates/strand.html
+	war/js/strand.js
+
+     4. GRADE MANAGEMENT
+	src/btg/controller/GradeController.java
+	src/btg/dao/GradeDao.java
+	src/btg/dto/GradeDto.java
+	src/btg/dto/StudentGradeDto.java
+	src/btg/meta/GradeModelMeta.java
+	src/btg/model/GradeModel.java
+	src/btg/service/GradeService.java
+
+     5. LOGIN MANAGEMENT
+	src/btg/controller/AdminPageController.java
+	src/btg/controller/IndexController.java
+	src/btg/controller/LoginController.java
+	src/btg/controller/StudentPageController.java
+	src/btg/controller/TeacherPageController.java
+	src/btg/dto/BaseDto.java
+	src/btg/session/SessionManager.java 
+	war/html/login.html
+	war/html/student.html
+	war/html/teacher.html
+	war/js/login.js
+	war/js/student.js
+	war/js/teacher.js
+
+     6. BEST STUDENT MANAGEMENT
+	src/btg/controller/BestStudentController.java
+	src/btg/dao/BestStudentDao.java
+	src/btg/dto/BestStudentDto.java
+	src/btg/meta/BestStudentModelMeta.java
+	src/btg/model/BestStudentModel.java
+	src/btg/service/BestStudentService.java
+	src/btg/controller/BestStudentsController.java
+	war/js/bestStudent.js
+	war/html/templates/bestStudent.html
+	war/BestStudents.jsp
+
+     7. CLASS LIST MANAGEMENT
+	war/js/classList.js
+	war/html/templates/classList.html
+
+     8. DOWNLOAD MANAGEMENT	
+	war/js/html2canvas.js
+	war/js/jspdf.js
+
+     **COMMON FILES
+	war/js/adminMain.js
+	war/js/angular.js
+	war/js/angular-route.js
+	html/admin.html
+	src/btg/common/GlobalConstants.java
+	war/js/sharedService.js
+	war/js/test.html
+
+[REMOVED FILES] -----------------------------------------------------
+
+	NONE FOR THIS RELEASE    
+
+    
+[VIRUS CHECK] -------------------------------------------------------
+
+    1. Windows Defender
+	Antimalware client version:		4.10.14393.0
+	Engine version: 			1.1.13202.0
+	Antivirus definition: 			1.231.1520.0
+	Antispyware definition: 		1.231.1520.0
+	Network inspection system
+	engine version: 			2.1.12706.0
+	Network inspection system
+	definition version: 			116.65.0.0
+
+
+[SPECIAL COMMENTS] --------------------------------------------------
+
+    NONE
+
+
+[DESTINATION] -------------------------------------------------------
+- The release files can be accessed in the following location
+
+    1.  https://github.com/UnicornsOfInnovation/BTGGradeSubmissionSystem.git
+
+
+[RELEASE MEMO] ------------------------------------------------------
+- The release notes is sent to the following recipients
+
+    1. Erwin Sarmiento       <esarmiento0302@gmail.com>
+    2. Dave Baclayon         <davebaclayon@gmail.com>
+    3. Adrian Rivera         <adrianrivera800@gmail.com>
+    4. Russell Codilla       <codilla.russell@gmail.com>
+    5. Russell Codilla	     <codilla.russell@gmail.com>
+
+
+=====================================================================
+
+APPROVED BY: CHRISTIAN DAVE B. BACLAYON
+
+//nothing follows
+
+
+
